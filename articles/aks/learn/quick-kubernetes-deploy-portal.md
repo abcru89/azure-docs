@@ -49,7 +49,9 @@ This quickstart assumes a basic understanding of Kubernetes concepts. For more i
     - **Primary node pool**:
         * Leave the default values selected.
     
-    :::image type="content" source="media/quick-kubernetes-deploy-portal/create-cluster-basics.png" alt-text="Screenshot of Create AKS cluster - provide basic information.":::
+    :::image type="content" source="media/quick-kubernetes-deploy-portal/create-cluster-basics.png" alt-text="Screenshot of Create AKS cluster - provide basic information."::: 
+    
+    ##This image (On line 52 "media/quick-kubernetes-deploy-portal/create-cluster-basics.png") is incorrect, it has the fields for Kubernetes versions displayed twice, once above and again below Availability zone, looks like the image may have been a bad clip or merge. 
 
     > [!NOTE]
     > You can change the preset configuration when creating your cluster by selecting *Learn more and compare presets* and choosing a different option.
