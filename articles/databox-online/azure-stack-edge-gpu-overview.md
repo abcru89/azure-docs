@@ -54,7 +54,7 @@ Azure Stack Edge Pro GPU has the following capabilities:
 
 <!--|ExpressRoute | Added security through ExpressRoute. Use peering configuration where traffic from local devices to the cloud storage endpoints travels over the ExpressRoute. For more information, see [ExpressRoute overview](../expressroute/expressroute-introduction.md).|-->
 
-## Components
+## Components this is bad
 
 The Azure Stack Edge Pro GPU solution includes the Azure Stack Edge resource, Azure Stack Edge Pro GPU physical device, and a local web UI.
 
